@@ -1,0 +1,13 @@
+Torres de Hanoi
+
+Las Torres de Hanoi es un juego inventado por el creativo matemático francés E. Lucas vendiéndose como juguete en 1883.  Las partes que componen el juego son tres barras, en las que se sitúan un cierto número de aros o discos de distintos diámetros que se colocan en una de las barras de los extremos en orden decreciente de abajo para arriba, es decir, que en la parte baja se coloca el de mayor diámetro y encima los de diámetros menores en orden decreciente. El objetivo del juego consiste en pasar los discos de un extremo al otro pero no de cualquier forma sino siguiendo unas precisas y sencillas instrucciones. 
+
+Instrucciones:
+
+• En cada movimiento solo podrán llevar un disco.
+• El trabajo hay que hacerlo en el menor número de movimientos posibles.
+• No se puede colocar nunca un disco mayor sobre otro menor.
+
+Para iniciar a jugar, haz clic en configuración.
+
+!!Buena Suerte!!
